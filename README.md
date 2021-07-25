@@ -1,2 +1,3 @@
 # Deep-Learning-Project
-Detecting cracks in a wall using transfer learning
+Project 1: Detecting cracks in a wall using Transfer Learning
+Project 2: Detecting European money denominations using Transfer Learning
